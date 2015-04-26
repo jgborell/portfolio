@@ -7045,3 +7045,9 @@ button.close {
         display: none !important
     }
 }
+.control-group {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
