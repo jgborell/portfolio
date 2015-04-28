@@ -146,9 +146,10 @@ a:focus {
     height: auto;
     padding: 300px 0;
     text-align: center;
-    color: #2e2e0a;
+    text-shadow: #080808;
+    color: #0f0f0f;
     font-style: oblique;
-    background: url(../img/road.jpg) no-repeat bottom center scroll;
+    background: url(../img/Desert-Highway-Wallpaper-In-Hd.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -181,6 +182,7 @@ a:focus {
 
     .intro .intro-body .intro-text {
         font-size: 26px;
+        color: #ffffcc;;
     }
 }
 
